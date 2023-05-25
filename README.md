@@ -1,3 +1,3 @@
 # BMI-using-NodeJS
 
-Basic calculator using NodeJS
+Basic BMI calculator using NodeJS
